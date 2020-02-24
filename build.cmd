@@ -13,4 +13,5 @@ bcp ^
     boost/range/algorithm_ext/ ^
     boost/system/error_code.hpp ^
     boost/system/system_error.hpp ^
+    boost/variant/ ^
     --boost="%1" .
