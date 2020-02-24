@@ -7,11 +7,9 @@ bcp ^
     boost/crc.hpp ^
     boost/date_time/posix_time/posix_time.hpp ^
     boost/icl/interval_map.hpp ^
-    boost/optional.hpp ^
+    boost/pool/ ^
     boost/range/algorithm/ ^
     boost/range/algorithm_ext/ ^
-    boost/smart_ptr/intrusive_ptr.hpp ^
     boost/system/error_code.hpp ^
     boost/system/system_error.hpp ^
-    boost/variant/ ^
     --boost="%1" .
